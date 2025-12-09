@@ -188,10 +188,6 @@ Key features include:
 - **MLP ROC-AUC**: 0.88
 - **False Negatives**: 1,162 (32% reduction from baseline)
 
-## License
-
-See [LICENSE](LICENSE) file for details.
-
 ## References
 
 - UCI Machine Learning Repository. CDC Diabetes Health Indicators. [Dataset Link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
