@@ -1,3 +1,4 @@
+
 # AAI-501 CDC Diabetes Health Indicators
 
 **Team 6 — University of San Diego**  
@@ -187,22 +188,9 @@ Key features include:
 - **MLP ROC-AUC**: 0.88
 - **False Negatives**: 1,162 (32% reduction from baseline)
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- Branching strategy
-- Code style guidelines
-- Pull request workflow
-
 ## License
 
 See [LICENSE](LICENSE) file for details.
-
-## Team Members
-
-- **Francisco**: EDA, Preprocessing, Deep Learning (MLP), Model Optimization
-- **Ahmed**: Gradient Boosting, K-Means Clustering
-- Additional team members working on Logistic Regression, Random Forest
 
 ## References
 
